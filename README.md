@@ -1,3 +1,3 @@
 # COMP3111LEx
 
-![Screenshot 2023-09-11 182029](https://github.com/ctaydey17/COMP3111LEx/assets/111519414/fe9266fe-022a-4db5-9d3e-b6b16136154d)
+![new ss](https://github.com/ctaydey17/COMP3111LEx/assets/111519414/1cea6705-fec5-4f0d-816b-c2022854e23a)
